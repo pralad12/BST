@@ -1,4 +1,4 @@
-# Problem 0 - Implementing a binary search tree
+
 class BSTNode():
     def __init__(self, key, value):
         self.key = key
